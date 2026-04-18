@@ -27,24 +27,28 @@ DAX (Data Analysis Expressions) – Calculated measures and KPIs
 **Insights & Analysis**
 
 **1. Sales Trend Analysis**
+
 Sales show strong seasonality
 Peak observed in November–December ($1.3M)
 Lowest sales in February ($0.2M)
 Insight: Q4 drives the highest revenue due to holiday demand.
 
 **2. Year-over-Year Growth**
+
 2020: 104% growth (exceptional spike)
 2021: -17% decline (market correction)
 2022: 33.5% recovery
 Insight: Post-pandemic normalization followed by stable growth
 
 **3. Product Category Performance**
+
 High Growth: Men Shoes (72.8%), Toys (45.5%)
 Moderate Growth: Camera (24.8%)
 Low/No Growth: Laptop, Audio Video
 Insight: Emerging categories outperform saturated ones.
 
 **Business Recommendations**
+
 Increase inventory and marketing efforts in Q4 peak season
 Focus on high-growth categories for expansion
 Re-strategize pricing or positioning for low-growth categories
