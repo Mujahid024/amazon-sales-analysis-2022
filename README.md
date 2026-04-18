@@ -21,9 +21,9 @@ E-commerce platforms generate massive amounts of data, but extracting actionable
 
 **Tools & Technologies Used**
 
-Power BI – Data visualization & dashboard creation
-Power Query and SQL – Data cleaning & preprocessing
-DAX (Data Analysis Expressions) – Calculated measures and KPIs
+*  Power BI – Data visualization & dashboard creation
+*  Power Query and SQL – Data cleaning & preprocessing
+*  DAX (Data Analysis Expressions) – Calculated measures and KPIs
 
 **Dashboard Preview**
 
