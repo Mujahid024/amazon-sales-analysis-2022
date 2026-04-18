@@ -27,7 +27,7 @@ E-commerce platforms generate massive amounts of data, but extracting actionable
 
 **Dashboard Preview**
 
-<img width="1415" height="785" alt="image" src="https://github.com/user-attachments/assets/0edc200a-7e22-46a4-ba7d-5cc276fdfdc7" />
+<img width="1414" height="789" alt="image" src="https://github.com/user-attachments/assets/28cf49d2-3316-4499-aa4f-92074532f507" />
 
 **Insights & Analysis**
 
