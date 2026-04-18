@@ -32,7 +32,7 @@ DAX (Data Analysis Expressions) – Calculated measures and KPIs
 **Insights & Analysis**
 
 **1. Sales Trend Analysis**
-Sales show strong seasonality.
+Sales show strong seasonality.,
 Peak observed in November–December ($1.3M).
 Lowest sales in February ($0.2M).
 Insight: Q4 drives the highest revenue due to holiday demand.
