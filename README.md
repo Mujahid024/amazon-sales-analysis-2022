@@ -49,8 +49,8 @@ Insight: Post-pandemic normalization followed by stable growth
 
 **3. Product Category Performance**
 
-* High Growth: Men Shoes (72.8%), Toys (45.5%)
-* Moderate Growth: Camera (24.8%)
+* High Growth: Men Shoes (72.8%), Car Accessories(60.6%)
+* Moderate Growth: Men clothes (44.1%), Camera (24.8%)
 * Low/No Growth: Laptop, Audio Video
 
 Insight: Emerging categories outperform saturated ones.
